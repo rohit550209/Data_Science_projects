@@ -42,33 +42,6 @@ Accuracy & classification report
 📊 Results
 The trained model achieves strong accuracy in distinguishing between fake and true news, as demonstrated in the classification metrics.
 
-📦 Requirements
-Install dependencies before running:
-
-bash
-Copy
-Edit
-pip install pandas numpy seaborn matplotlib scikit-learn
-▶️ How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/fake-news-detection.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd fake-news-detection
-Open the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Project_1_Fake_news_detection.ipynb
-Run all cells to train the model and see results.
 
 📌 Future Improvements
 Experiment with deep learning models (LSTM, BERT)
